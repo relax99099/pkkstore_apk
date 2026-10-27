@@ -1,9 +1,9 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/relax99099/pkkstore_apk/releases/download/v1.5/PKKStore-v1.5.apk",
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/relax99099/pkkstore_apk/releases/download/v1.6/PKKStore-v1.6.apk",
   "notes": "VIP Code buy with Telegram Bot 24/7",
-  "minVersionCode": 6,
+  "minVersionCode": 7,
   "windowsVersionCode": 3,
   "windowsVersionName": "1.0.2",
   "windowsExeUrl": "https://github.com/relax99099/Rock/releases/download/v1.0.2/PKKStore_1.0.2_x64-setup.exe"
