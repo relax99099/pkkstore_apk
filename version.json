@@ -4,7 +4,7 @@
   "apkUrl": "https://github.com/relax99099/pkkstore_apk/releases/download/v1.23/PKKStore-v1.23.apk",
   "notes": "vless & vless reality protocol ချိတ်ဆက်အသုံးပြုနိုင်ပါပြီ။ Protocol အားလုံးချိတ်ဆက်နိုင်အောင် ပြုပြင်ထားပါတယ်။ v1.23 ကို update လုပ်နိုင်ပါပြီ။",
   "minVersionCode": 20,
-  "windowsVersionCode": 10,
+  "windowsVersionCode": 9,
   "windowsVersionName": "1.0.9",
   "windowsExeUrl": "https://github.com/relax99099/pkkstore_apk/releases/download/win-v1.0.9/PKKStore_1.0.9_x64-setup.exe",
   "windowsPublicExeUrl": "https://github.com/relax99099/pkkstore_apk/releases/download/win-v1.0.9/PKKStore_1.0.9_x64-setup.exe"
